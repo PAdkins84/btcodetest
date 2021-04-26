@@ -1,0 +1,19 @@
+$primary-bt-purple: #5514b4;
+$header-footer: #ffffff;
+$body-p-span: #333333;
+
+body {
+  font-family: Calibri;
+  color: $body-p-span;
+  background-color: $primary-bt-purple;
+}
+
+.bt-logo {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+h1 {
+  color: $header-footer;
+}
