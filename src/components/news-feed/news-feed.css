@@ -16,10 +16,11 @@
 }
 
 .card-item {
-  border: 1px solid white;
+  border: 1px solid rgba(255, 255, 255, 0.822);
   border-radius: 5px;
   padding: 5px;
   margin: 10px 0 10px 0;
+  background-color: #943cd0;
 }
 
 .news-headline {
