@@ -2,12 +2,17 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: left;
+  margin: 0 10px 0 10px;
 }
 
 .card-item {
   border: 1px solid white;
   border-radius: 5px;
   padding: 5px;
-  margin: 5px 0 5px 0;
+  margin: 10px 0 10px 0;
+}
+
+.news-headline {
+  margin-bottom: -20px;
 }

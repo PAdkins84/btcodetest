@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACT,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,IAAI;EACjB,MAAM,EAAE,aAAa;CACtB;;AAED,AAAA,UAAU,CAAC;EACT,MAAM,EAAE,eAAe;EACvB,aAAa,EAAE,GAAG;EAClB,OAAO,EAAE,GAAG;EACZ,MAAM,EAAE,aAAa;CACtB;;AAED,AAAA,cAAc,CAAC;EACb,aAAa,EAAE,KAAK;CACrB",
+    "sources": [
+        "news-feed.scss"
+    ],
+    "names": [],
+    "file": "news-feed.css"
+}

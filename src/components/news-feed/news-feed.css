@@ -1,0 +1,28 @@
+.card-list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: left;
+      -ms-flex-align: left;
+          align-items: left;
+  margin: 0 10px 0 10px;
+}
+
+.card-item {
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px 0 10px 0;
+}
+
+.news-headline {
+  margin-bottom: -20px;
+}
+/*# sourceMappingURL=news-feed.css.map */
