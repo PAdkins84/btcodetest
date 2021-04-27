@@ -1,0 +1,13 @@
+.card-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-item {
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px 0 5px 0;
+}

@@ -1,8 +1,8 @@
 import React from 'react';
 
-export const SearchBox = ({handleChange}) => (
+export const SearchBox = ({handleUserSearch}) => (
             <input className="search"
                    type="search"
                    placeholder="Search News"
-                   onChange={handleChange} />
+                   onChange={handleUserSearch} />
 )
